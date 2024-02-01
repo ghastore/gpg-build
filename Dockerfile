@@ -2,7 +2,7 @@ FROM alpine
 
 LABEL "name"="GPG Builder"
 LABEL "description"="GitHub Action for build GPG files."
-LABEL "maintainer"="iHub TO <mail@ihub.to>"
+LABEL "maintainer"="Kai Kimera <mail@kai.kim>"
 LABEL "repository"="https://github.com/ghastore/gpg-build.git"
 LABEL "homepage"="https://github.com/ghastore"
 
